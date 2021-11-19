@@ -9,4 +9,7 @@ code written in `C language`
 - https://www.onlinegdb.com/  ()
 - https://en.savefrom.net/  
 - https://instant.audio/  (Radio)
-- 
+- Mobile Network
+  https://www.jio.com/BalanceExhaust (Message for finishing data balance)
+- Science
+  -https://www.timeanddate.com/sun/india/kolkata
