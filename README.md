@@ -3,8 +3,10 @@ code written in `C language`
 `https://github.com`
 
 ## Some Websites _(Visited sometimes)_
-- https://www.google.com/intl/bn/inputtools/try/
-- https://jupyter.org/try
-- https://kitchingroup.cheme.cmu.edu/pycse/pycse.html
-- https://www.onlinegdb.com/
-- https://en.savefrom.net/
+- https://www.google.com/intl/bn/inputtools/try/  (Bengali input tool)
+- https://jupyter.org/try (Python scripts)
+- https://kitchingroup.cheme.cmu.edu/pycse/pycse.html (Python Numpy example)
+- https://www.onlinegdb.com/  ()
+- https://en.savefrom.net/  
+- https://instant.audio/  (Radio)
+- 
