@@ -12,7 +12,7 @@ code written in `C language`
 - https://dailyepaper.in/home-point/
 - https://rubiks-cube-solver.com/
 - Mobile Network
-  https://www.jio.com/BalanceExhaust (Message for finishing data balance)
+  _https://www.jio.com/BalanceExhaust (Message for finishing data balance)
 - Science
 * https://www.timeanddate.com/sun/india/kolkata
 * http://imdkolkata.gov.in/acwc/nabanna/view
