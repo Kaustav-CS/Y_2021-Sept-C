@@ -17,6 +17,8 @@ code written in `C language`
 - Mobile Network
   * https://www.jio.com/BalanceExhaust (Message for finishing data balance)
   * https://www.jio.com/selfcare/login/mobile
+  * https://www.myvi.in/account/login
+  * https://www.airtel.in/s/selfcare?normalLogin
   * 
 - Science
   * https://www.timeanddate.com/sun/india/kolkata
